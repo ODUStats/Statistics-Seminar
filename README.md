@@ -11,7 +11,7 @@ This is a Quarto starter for a public seminar website hosted with GitHub Pages. 
 
 ## 2. Add a seminar
 
-1. Duplicate `seminars/2026-fall/2026-09-11-example.qmd`.
+1. Duplicate `seminars/2026-fall/2026-09-03-example.qmd`.
 2. Rename it using `YYYY-MM-DD-short-title.qmd`.
 3. Replace the title, speaker, date, time, location, abstract, bio, and materials.
 4. Commit the file. GitHub will rebuild the website automatically.
