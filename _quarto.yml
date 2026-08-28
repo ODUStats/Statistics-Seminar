@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "ODU Department Seminar Series"
+  description: "Upcoming seminars, speaker information, materials, and past talks."
+  site-url: "https://github.com/ODUStats/Statistics-Seminar/"
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - href: schedule.qmd
+        text: Current Schedule
+      - href: archive.qmd
+        text: Past Seminars
+      - href: about.qmd
+        text: About
+  page-footer:
+    left: "Old Dominion University · Department of Mathematics & Statistics"
+    right: "Department Seminar Series"
+  search: true
+  open-graph: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto

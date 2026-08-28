@@ -1,0 +1,13 @@
+---
+title: "Fall 2026 Seminars"
+description: "The current department seminar schedule."
+listing:
+  contents: "seminars/2026-fall"
+  sort: "date asc"
+  type: default
+  fields: [date, title, description]
+  sort-ui: false
+  filter-ui: false
+---
+
+Seminars are open to the university community and the public unless otherwise noted. Replace this paragraph with your regular meeting time, location, and visitor information.

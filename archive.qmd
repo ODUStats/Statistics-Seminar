@@ -1,0 +1,14 @@
+---
+title: "Past Seminars"
+description: "Browse previous speakers, abstracts, and seminar materials."
+listing:
+  contents: "seminars"
+  sort: "date desc"
+  type: table
+  fields: [date, title, description, categories]
+  categories: true
+  sort-ui: false
+  filter-ui: true
+---
+
+This archive grows automatically as semester folders are added under `seminars/`.

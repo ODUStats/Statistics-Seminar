@@ -1,0 +1,30 @@
+---
+title: "Department Seminar Series"
+page-layout: full
+title-block-banner: false
+listing:
+  contents: "seminars/2026-fall"
+  sort: "date asc"
+  type: grid
+  grid-columns: 2
+  fields: [date, title, description]
+  max-items: 4
+  sort-ui: false
+  filter-ui: false
+---
+
+::: {.seminar-hero}
+::: {.hero-kicker}
+Mathematics & Statistics
+:::
+
+# Ideas worth gathering for.
+
+Join faculty, students, and visitors for talks spanning statistics, mathematics, data science, and related fields.
+
+[View the current schedule](schedule.qmd){.btn .btn-primary}
+:::
+
+## Upcoming seminars
+
+New talks appear below automatically when you add a seminar file to the current-semester folder.

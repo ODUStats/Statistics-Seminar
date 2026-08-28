@@ -1,0 +1,20 @@
+---
+title: "About the Series"
+---
+
+The Department Seminar Series brings together researchers, students, and guests for accessible talks and discussion across mathematics, statistics, data science, and related disciplines.
+
+## Attend
+
+Add the regular meeting day, time, room, parking guidance, and accessibility information here.
+
+## Organizers
+
+**Organizer Name**  
+Department of Mathematics & Statistics  
+Old Dominion University  
+[organizer@odu.edu](mailto:organizer@odu.edu)
+
+## Suggest a speaker
+
+Contact the organizer with the speaker's name, affiliation, topic, and preferred semester.
