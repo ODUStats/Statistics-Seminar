@@ -1,5 +1,5 @@
 ---
-title: "Department Seminar Series"
+title: "Statistics Seminar Series"
 page-layout: full
 title-block-banner: false
 listing:
