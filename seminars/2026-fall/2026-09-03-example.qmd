@@ -1,5 +1,5 @@
 ---
-title: "Sample Seminar Title Goes Here"
+title: "TBD"
 description: ""
 date: 2026-09-03
 date-format: "dddd, MMMM D, YYYY"
@@ -8,7 +8,7 @@ author: ""
 ---
 
 ::: {.seminar-notice}
-**Sample entry:** Replace all content on this page before publishing your real seminar schedule.
+**Dr. Diawara will discuss his research on September 03, 2026.
 :::
 
 ## Event information
