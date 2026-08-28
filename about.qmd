@@ -2,18 +2,18 @@
 title: "About the Series"
 ---
 
-The Department Seminar Series brings together researchers, students, and guests for accessible talks and discussion across mathematics, statistics, data science, and related disciplines.
+The Statistics Seminar Series provides a forum for researchers, students, and invited guests to share and discuss their work, exchange ideas, and advance research across diverse areas of statistics and its applications.
 
 ## Attend
 
-Add the regular meeting day, time, room, parking guidance, and accessibility information here.
+Regular meeting time: Thursdays 12:30 - 1:20 pm, VAB 1008
 
 ## Organizers
 
 **Organizer Name**  
 Department of Mathematics & Statistics  
 Old Dominion University  
-[organizer@odu.edu](mailto:organizer@odu.edu)
+[Dr. Norou Diawara](mailto:NDiawara@odu.edu)
 
 ## Suggest a speaker
 
