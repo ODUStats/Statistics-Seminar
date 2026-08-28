@@ -1,7 +1,7 @@
 ---
 title: "TBD"
 description: ""
-date: 2026-09-03
+date: 2026-09-11
 date-format: "dddd, MMMM D, YYYY"
 categories: ["Fall 2026"]
 author: ""
@@ -15,7 +15,7 @@ author: ""
 
 - **Time:** 12:30–1:20 PM
 - **Location:** VAB1008
-- **Speaker:** Dr. Norou Diawara, Old Dominion University
+- **Speaker:** 
 
 ## Abstract
 
