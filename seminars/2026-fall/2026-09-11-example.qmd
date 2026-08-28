@@ -1,10 +1,10 @@
 ---
-title: "Sample Seminar Title Goes Here"
-description: "Dr. Ada Example · Example University"
-date: 2026-09-11
+title: "TBD"
+description: ""
+date: 2026-09-03
 date-format: "dddd, MMMM D, YYYY"
 categories: ["Fall 2026"]
-author: "Dr. Ada Example"
+author: ""
 ---
 
 ::: {.seminar-notice}
@@ -13,9 +13,9 @@ author: "Dr. Ada Example"
 
 ## Event information
 
-- **Time:** 3:00–4:00 PM
-- **Location:** Room XXX
-- **Speaker:** Dr. Ada Example, Example University
+- **Time:** 12:30–1:20 PM
+- **Location:** VAB1008
+- **Speaker:** Dr. Norou Diawara, Old Dominion University
 
 ## Abstract
 
