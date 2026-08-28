@@ -20,11 +20,10 @@ Mathematics & Statistics
 
 # Ideas worth gathering for.
 
-Join faculty, students, and visitors for talks spanning statistics, mathematics, data science, and related fields.
+Join faculty, students, and visitors for talks spanning statistics, mathematics, data science, and related fields to share and discuss your work, exchange ideas, and advance research across diverse areas of statistics and its applications.
+
 
 [View the current schedule](schedule.qmd){.btn .btn-primary}
 :::
 
 ## Upcoming seminars
-
-New talks appear below automatically when you add a seminar file to the current-semester folder.
