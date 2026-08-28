@@ -10,21 +10,31 @@ body { color: var(--seminar-ink); }
 .navbar { min-height: 72px; box-shadow: none; }
 .navbar-brand { font-weight: 700; letter-spacing: -.02em; }
 .seminar-hero {
-  margin: -1rem calc(50% - 50vw) 4rem;
-  padding: clamp(4rem, 9vw, 8rem) max(6vw, calc((100vw - 1180px) / 2));
+  margin: -1rem calc(50% - 50vw) 3rem;
+  padding: clamp(2.5rem, 5vw, 4.5rem)
+           max(6vw, calc((100vw - 1180px) / 2));
   color: white;
   background:
-    radial-gradient(circle at 75% 12%, rgba(64,127,181,.38), transparent 28%),
-    linear-gradient(135deg, var(--odu-navy), #0b3157 72%, #16436c);
+    radial-gradient(
+      circle at 75% 12%,
+      rgba(64, 127, 181, 0.38),
+      transparent 28%
+    ),
+    linear-gradient(
+      135deg,
+      var(--odu-navy),
+      #0b3157 72%,
+      #16436c
+    );
 }
 .seminar-hero h1 {
   max-width: 800px;
-  margin: .5rem 0 1.25rem;
+  margin: 0.5rem 0 1.25rem;
   font-family: Georgia, "Times New Roman", serif;
-  font-size: clamp(3.4rem, 8vw, 7rem);
-  line-height: .94;
+  font-size: clamp(3rem, 6vw, 5.5rem);
+  line-height: 0.96;
   font-weight: 500;
-  letter-spacing: -.045em;
+  letter-spacing: -0.045em;
 }
 .seminar-hero > p { max-width: 670px; color: #d5e4ee; font-size: 1.15rem; line-height: 1.75; }
 .hero-kicker { color: var(--odu-gold); text-transform: uppercase; letter-spacing: .17em; font-size: .76rem; font-weight: 800; }
@@ -38,6 +48,11 @@ h2 { margin-top: 2.2rem; }
 .seminar-notice { padding: 1rem 1.25rem; border-left: 4px solid var(--odu-gold); background: #fff6df; }
 .page-footer { background: var(--odu-navy); color: #d7e3ec; }
 @media (max-width: 700px) {
-  .seminar-hero { padding-top: 4rem; padding-bottom: 4.5rem; }
-  .seminar-hero h1 { font-size: clamp(3rem, 15vw, 5rem); }
+  .seminar-hero {
+    padding-top: 3rem;
+    padding-bottom: 3.25rem;
+  }
+  .seminar-hero h1 {
+    font-size: clamp(2.8rem, 13vw, 4.5rem);
+  }
 }
