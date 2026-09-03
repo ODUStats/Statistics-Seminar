@@ -1,10 +1,10 @@
 ---
-title: "TBD"
+title: "Research Topics and Applications in Statistics"
 description: ""
 date: 2026-09-03
 date-format: "dddd, MMMM D, YYYY"
 categories: ["Fall 2026"]
-author: ""
+author: "Norou Diawara, PhD"
 ---
 
 ::: {.seminar-notice}
@@ -19,11 +19,11 @@ author: ""
 
 ## Abstract
 
-Paste the seminar abstract here. Short paragraphs are easier to read on both desktop and mobile devices.
+Statistics has impacts in almost all aspects of life. AI will soon take over many jobs, but Mathematicians, Statisticians, and data scientists are still important, especially in the role of making sure that regulations are followed. All sciences that produce numbers and data in their research will need a statistician's opinion for interpreting the data. Spatio-temporal models are developed for data that are yielded from high-dimensional and temporally and spatially correlated settings. These data are typically heterogeneous and discrete e.g., counts of COVID-19 cases. Autoregressive and level-correlated models, e.g. BVAR(1)-LCM can be applied to modeling this type of data. The evolution/changes in Earth's tropical cyclone environment is also an example of spatialtemporal data. Models for multiple changepoint detection for non-Gaussian Time series can be applied to identify tropical cyclones. In a more recently funded research project, the behavior of seatbelt use in VA is surveyed and studied. In this context, in addition to spatiotemporal data modeling, the design of the survey and the choice of sampling scheme, as well as models depending on the attributes, are also very important. There are also other data of interest, including fNIRS brain imaging data, USAID, green infrastructure in Norfolk, and many other cases.
 
 ## About the speaker
 
-Paste a brief speaker biography here.
+Dr. Diawara is a Professor in the Department of Mathematics and Statistics at ODU. He has a wide range of research interests, including clustering, spatial-temporal data modeling, and design of experiments. He is well funded and has published many papers and book chapters.
 
 ## Materials
 
