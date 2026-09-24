@@ -1,0 +1,27 @@
+---
+title: "Copula Adapted Directed Acyclic Graph for Cluster Representation of Biomedical Data"
+description: ""
+date: 2026-09-24
+date-format: "dddd, MMMM D, YYYY"
+categories: ["Fall 2026"]
+---
+
+## Event information
+
+- **Time:** 12:30–1:20 PM
+- **Location:** VAB1205
+- **Speaker: Dr. Heranga Rathnasekara** 
+
+## Abstract
+
+Diagnostic errors and mislabeling are common in biomedicine, which compromises the reliability of predictive models and data-driven outcomes. Stratifying unlabeled biomedical data based on complex relationships between features eliminates the need for data labels and overcomes the limitations of supervised learning. Traditional clustering methods assume restrictive data distributions, making them suboptimal for capturing complex dependencies in high-dimensional biomedical data. This study introduces a novel cluster-friendly data presentation framework that integrates the non-Gaussian and non-linear feature dependence of copula models with an ensemble of causal structure discovery (CSD) methods based on Directed Acyclic Graphs (DAGs). While copulas model flexible multivariate distributions by relaxing assumptions related to multivariate normality, linear dependence, and symmetric relationships, an ensemble of DAG-based CSD methods identifies stable causal relationships between features. When clustered using k-means, the new data representation obtained by the proposed copula-adapted DAG (copDAG) ranks first among 12 methods in normalized clustering accuracy and adjusted Rand index across 16 biomedical datasets. Our copDAG method predicts ground-truth class labels directly from feature relationships without data annotations and supervised learning, while also providing cluster visualizations and explainable causal structures of the biomedical data features.
+
+## About the speaker
+
+Dr. Heranga Rathnasekara graduated from the Department of Mathematics and Statistics at ODU. She is currently working as a postdoc for Dr. Diawara.
+
+## Materials
+
+- [Download slides](#)
+- [Related paper](#)
+- [Watch the recording](#)
